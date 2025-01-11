@@ -1,6 +1,19 @@
 ### Hi there! 👋
 
-- 💼 Senior Developer by day, Neovim enthusiast (in progress) by night.
-- 🌱 Currently improving my Neovim skills (still figuring out how to quit gracefully).
-- 🛠️ Tech I work with: Go, Java, C#, and, of course, **Neovim (btw)**.
-- 🤔 Fun fact: I've shipped production code faster than I can open Neovim.
+I'm a **Senior Developer** with extensive experience in building robust, scalable, and efficient software solutions. I specialize in backend development, API design, and delivering enterprise-grade applications.
+
+- 💼 **Tech Expertise**:
+  - **Languages**: C#, Java, JavaScript, TypeScript.
+  - **Frameworks**: .NET (ASP.NET Core), Spring Boot, Node.js (Express, NestJS).
+
+- 🌱 **Currently Exploring**:
+  - Advanced architectural patterns for microservices.
+  - Optimizing system performance and scalability.
+
+- 🛠️ **What I Love to Build**:
+  - Scalable RESTful and GraphQL APIs.
+  - Enterprise-grade applications and distributed systems.
+  - End-to-end solutions
+
+Feel free to explore my repositories or reach out for collaboration on exciting projects!
+
