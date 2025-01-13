@@ -11,7 +11,7 @@ I'm a **Senior Developer** with extensive experience in building robust, scalabl
   - Optimizing system performance and scalability.
 
 - 🛠️ **What I Love to Build**:
-  - Scalable RESTful and GraphQL APIs.
+  - Scalable RESTful APIs.
   - Enterprise-grade applications and distributed systems.
   - End-to-end solutions
 
