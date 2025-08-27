@@ -1,13 +1,13 @@
 ### Hi there! 👋
 
-I'm a **Senior Developer** with extensive experience in building robust, scalable, and efficient software solutions. I specialize in backend development, API design, and delivering enterprise-grade applications.
+I'm a **Senior Developer** with experience in building robust, scalable, and efficient software solutions. I specialize in backend development, API design, and delivering enterprise-grade applications.
 
 - 💼 **Tech Expertise**:
   - **Languages**: C#, Java, JavaScript, TypeScript, Go
-  - **Frameworks**: .NET (ASP.NET Core), Spring Boot, Node.js (Express, NestJS).
+  - **Frameworks**: .NET (ASP.NET Core), Spring Boot, Node.js (Express, NestJS)
 
 - 🌱 **Currently Exploring**:
-  - Ruby on rails
+  - Refreshing and deepening my knowledge in **Data Structures & Algorithms**
 
-Feel free to explore my repositories or reach out for collaboration on exciting projects!
-
+- 🚀 **Next Steps**:
+  - Diving into **Functional Programming** with **OCaml**
