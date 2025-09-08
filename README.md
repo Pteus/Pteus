@@ -10,4 +10,5 @@ I'm a **Senior Developer** with experience in building robust, scalable, and eff
   - Refreshing and deepening my knowledge in **Data Structures & Algorithms**
 
 - 🚀 **Next Steps**:
+  - Ruby / Ruby on Rails   
   - Diving into **Functional Programming** with **OCaml**
