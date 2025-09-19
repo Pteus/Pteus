@@ -7,8 +7,7 @@ I'm a **Senior Developer** with experience in building robust, scalable, and eff
   - **Frameworks**: .NET (ASP.NET Core), Spring Boot, Node.js (Express, NestJS)
 
 - 🌱 **Currently Exploring**:
-  - Refreshing and deepening my knowledge in **Data Structures & Algorithms**
+  - Ruby on Rails
 
 - 🚀 **Next Steps**:
-  - Ruby / Ruby on Rails   
   - Diving into **Functional Programming** with **OCaml**
